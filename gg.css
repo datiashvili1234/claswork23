@@ -1,0 +1,41 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  border: 2px solid black;
+}
+.s3 {
+  color: blue;
+}
+.s1 {
+  color: green;
+}
+.s2 {
+  color: red;
+}
+.b-1 {
+  background-color: blue;
+  padding: 15px;
+}
+.b-2 {
+  background-color: green;
+  padding: 15px;
+  margin-left: 20px;
+}
+.div-3 {
+  display: flex;
+}
+.b-3 {
+  margin-left: 20px;
+  background-color: red;
+  padding: 15px;
+}
